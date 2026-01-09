@@ -7,7 +7,6 @@ Desktop Sudoku solver and designer with support for popular variant constraints.
 - Classic Sudoku rules + variants (thermo, arrows, renban, kropki, killer cages, palindromes, etc.)
 - Constraint propagation + backtracking solver
 - JSON save/load format for puzzles
-- Batch tools to import SudokuPad links, solve many puzzles, and report errors
 
 ## Requirements
 - Python 3.11+
